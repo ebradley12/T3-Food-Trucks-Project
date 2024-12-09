@@ -1,0 +1,95 @@
+{
+    "date": "2024-11-05",
+    "total_transaction_value_all_trucks": 3179,
+    "average_total_transaction_value": 5,
+    "truck_data_summary": [
+        {
+            "truck_id": 6,
+            "total_revenue": 910,
+            "average_transaction_value": 4,
+            "transaction_count": 187
+        },
+        {
+            "truck_id": 1,
+            "total_revenue": 681,
+            "average_transaction_value": 7,
+            "transaction_count": 88
+        },
+        {
+            "truck_id": 5,
+            "total_revenue": 564,
+            "average_transaction_value": 5,
+            "transaction_count": 103
+        },
+        {
+            "truck_id": 2,
+            "total_revenue": 522,
+            "average_transaction_value": 7,
+            "transaction_count": 68
+        },
+        {
+            "truck_id": 3,
+            "total_revenue": 428,
+            "average_transaction_value": 4,
+            "transaction_count": 92
+        },
+        {
+            "truck_id": 4,
+            "total_revenue": 74,
+            "average_transaction_value": 1,
+            "transaction_count": 44
+        }
+    ],
+    "transaction_count_per_truck": [
+        {
+            "truck_id": 6,
+            "transaction_count": 187
+        },
+        {
+            "truck_id": 5,
+            "transaction_count": 103
+        },
+        {
+            "truck_id": 3,
+            "transaction_count": 92
+        },
+        {
+            "truck_id": 1,
+            "transaction_count": 88
+        },
+        {
+            "truck_id": 2,
+            "transaction_count": 68
+        },
+        {
+            "truck_id": 4,
+            "transaction_count": 44
+        }
+    ],
+    "average_transaction_value_per_truck": [
+        {
+            "truck_id": 1,
+            "average_transaction_value": 7
+        },
+        {
+            "truck_id": 2,
+            "average_transaction_value": 7
+        },
+        {
+            "truck_id": 5,
+            "average_transaction_value": 5
+        },
+        {
+            "truck_id": 3,
+            "average_transaction_value": 4
+        },
+        {
+            "truck_id": 6,
+            "average_transaction_value": 4
+        },
+        {
+            "truck_id": 4,
+            "average_transaction_value": 1
+        }
+    ]
+}

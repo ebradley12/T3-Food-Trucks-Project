@@ -1,0 +1,11 @@
+FROM python:latest
+
+WORKDIR /pipeline_2
+
+COPY . .
+
+RUN pip3 install -r requirements.txt
+
+RUN mkdir -p data
+
+CMD ["python3", "etl_pipeline2.py"]

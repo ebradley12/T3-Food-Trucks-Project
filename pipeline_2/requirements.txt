@@ -1,0 +1,11 @@
+boto3
+openpyxl
+pandas
+redshift_connector
+python-dotenv
+xlrd
+altair
+streamlit
+pyarrow
+fastparquet
+psycopg2-binary
